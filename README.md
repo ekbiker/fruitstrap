@@ -1,8 +1,8 @@
-## This project is no longer maintained.
-
 fruitstrap
 ==========
-Install and debug iPhone apps without using Xcode. Designed to work on non-jailbroken devices in a continuous integration environment.
+Install and debug iPhone apps without using Xcode.
+
+Designed to work on non-jailbroken devices in a continuous integration environment.
 
 ## Requirements
 
