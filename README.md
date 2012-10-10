@@ -6,7 +6,7 @@ Designed to work on non-jailbroken devices in a continuous integration environme
 
 ## Requirements
 
-* Mac OS X. Tested on Snow Leopard and Lion.
+* Mac OS X Snow Leopard or newer (Tested on Mountain Lion 10.8.2).
 * You need to have a valid iPhone development certificate installed.
 * Xcode must be installed (tested with 4.5), along with the SDK for your iOS version.
 
