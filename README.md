@@ -19,3 +19,6 @@ Designed to work on non-jailbroken devices in a continuous integration environme
 
 * `make all` will place the fruitstrap binary in the project root. 
 * Move the binary any where you would like it.
+
+## UI Testing
+* Please see my [blog post](http://seanfreitag.wordpress.com/2012/10/10/running-ui-tests-on-an-ios-device-in-a-continuous-integration-environment/) about using fruitstrap with UI Testing
