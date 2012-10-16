@@ -123,7 +123,7 @@ CFStringRef copy_developer_disk_image_path(AMDeviceRef device) {
     found = path_exists(path);
 
     if (!found) {
-        path = CFStringCreateWithFormat(NULL, NULL, CFSTR("/Developer/Platforms/iPhoneOS.platform/DeviceSupport/%@ (%@/DeveloperDiskImage.dmg)"), version, build);
+        path = CFStringCreateWithFormat(NULL, NULL, CFSTR("/Developer/Platforms/iPhoneOS.platform/DeviceSupport/%@ (%@)/DeveloperDiskImage.dmg"), version, build);
         found = path_exists(path);
     }
     if (!found) {
